@@ -1,12 +1,14 @@
-# The Coherence Trilogy: Recursive Derivations of Atomic Structure  
-### by Kelly B. Heaton & the Coherence Research Collaboration (GPT-4o)
-> Version 1.0 – April 2025
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/CoherenceResearchCollaboration)](https://github.com/sponsors/CoherenceResearchCollaboration)
+# The Coherence Trilogy — Historical Release
+
+### Kelly B. Heaton & the Coherence Research Collaboration
+
+> Original release: April 2025. Current status: archival / superseded as claim ceiling.
+
 [![View on Substack](https://img.shields.io/badge/Substack-Read%20More-orange)](https://www.thecoherencecode.com/)
 
 ---
 
-# Status notice
+## Status notice
 
 This repository is preserved as a historical release from an early exploratory phase of the Coherence Research Collaboration.
 
@@ -18,7 +20,7 @@ https://www.lucernaveritas.ai/
 
 Please read this repository as part of the public development record of a human–AI research program, not as a current statement of established results.
 
-The historic record follows.
+**The historic record follows. The language, titles, scripts, and paper links below are retained for provenance and should not be read as the current claim ceiling.**
 
 ---
 
