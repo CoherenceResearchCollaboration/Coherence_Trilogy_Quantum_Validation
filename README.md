@@ -6,6 +6,22 @@
 
 ---
 
+# Status notice
+
+This repository is preserved as a historical release from an early exploratory phase of the Coherence Research Collaboration.
+
+It is **not** the current claim ceiling of the research program. Several claims, derivations, and interpretations in this repository have since been revised, retired, or reclassified under the program’s Determinacy-governed audit process.
+
+The current research home is Lucerna Veritas:
+
+https://www.lucernaveritas.ai/
+
+Please read this repository as part of the public development record of a human–AI research program, not as a current statement of established results.
+
+The historic record follows.
+
+---
+
 ## Overview
 
 **The Coherence Trilogy** presents three first-principles derivations of the fundamental constants of atomic physics — Planck’s constant, the fine-structure constant, and the Rydberg constant — using a single unifying framework: **recursive angular geometry**.
