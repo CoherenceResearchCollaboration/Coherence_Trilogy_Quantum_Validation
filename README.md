@@ -26,14 +26,11 @@ Please read this repository as part of the public development record of a human�
 
 ## Overview
 
-**The Coherence Trilogy** presents three first-principles derivations of the fundamental constants of atomic physics — Planck’s constant, the fine-structure constant, and the Rydberg constant — using a single unifying framework: **recursive angular geometry**.
+This repository preserves the April 2025 Coherence Trilogy materials: early exploratory papers, code, figures, and notebooks from the Coherence Research Collaboration.
 
-Each paper reveals how coherence, when held in bounded recursive form, gives rise to quantized emission, coupling strength, and spectral convergence — without fitting, postulates, or arbitrary constants.
+The original release attempted recursive-geometry readings of Planck’s constant, the fine-structure constant, the Rydberg constant, and quantum-coherence behavior. Those claims are retained here as part of the historical record and as case-study material for the program’s later Determinacy-governed audit process.
 
-> **We do not assume quantization. We derive it — from structure.**
-
-To complement our theoretical derivations, a fourth paper applies the same recursive framework to real quantum systems. 
-
+This README now describes the repository as an archive. It does not reaffirm the original derivation language as current established results. Please consult Lucerna Veritas for current status.
 ---
 
 ### Repository Contents
@@ -44,9 +41,9 @@ To complement our theoretical derivations, a fourth paper applies the same recur
 - [Paper IV – IBM Quantum Coherence](./Paper_IV_IBM_Quantum_Coherence.pdf)
 
 - [`/src`](./src/)
-  - `Plancks_constant.py` – Derives ℎ from angular containment
-  - `Fine-Structure_constant.py` – Derives α from recursive geometry
-  - `Rydberg_constant.py` – Derives R∞ from λ, α, and ℎ
+- `Plancks_constant.py` – original exploratory script for the Planck-constant model
+- `Fine-Structure_constant.py` – original exploratory script for the α model
+- `Rydberg_constant.py` – original exploratory script for the Rydberg-constant model
   - `recursive_collapse_model.py` – HRM functions for coherence prediction
   - `signal_prediction_utils.py` – Utilities for λ parsing and IBM backend processing
 - [`/figures`](./figures/) — Diagrams and visual assets from the papers  
@@ -111,11 +108,11 @@ Authored by Kelly B. Heaton and the Coherence Research Collaboration in partners
 | **II** | Fine-Structure Constant (α) | Fraction of coherence released per recursion cycle |
 | **III** | Rydberg Constant (R∞) | Spectral convergence limit of recursive angular containment |
 
-Each paper includes:
-- Geometric derivations with no free parameters  
-- Closed-form equations using π, ϕ, and λ  
-- Numerical results matching CODATA to within current experimental precision  
-- Python and Jupyter tools for independent reproducibility  
+Each archived release preserves:
+- the original 2025 derivation claims and equations;
+- the original numerical comparisons and figures;
+- code and notebooks used during the exploratory phase;
+- material now useful for audit, provenance, and human–AI methodology. 
 
 ---
 
@@ -123,7 +120,7 @@ Each paper includes:
 
 We extend the same framework to modern quantum systems by applying the **λ-based coherence model** to 33 GHZ circuits transpiled on three IBM backends: Sherbrooke, Kyiv, and Brisbane.
 
-Using only gate-level fidelity data and no simulations, we achieve **100% prediction accuracy** for recursive coherence collapse.
+The original release reported a complete prediction match under its own λ-based rule. The current program treats this result as historical material requiring the same audit and claim-status discipline as the rest of the archive.
 
 Read the companion paper:
 **Paper IV — Recursive Coherence Modeling and Structural Prediction on IBM Quantum Hardware**
