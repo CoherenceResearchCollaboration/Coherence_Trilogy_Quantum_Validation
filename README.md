@@ -97,13 +97,7 @@ Authored by Kelly B. Heaton and the Coherence Research Collaboration in partners
 
 ## Ways to Support This Work
 
-Join us in our quest for discovery — become a sponsor or patron. Here’s how:
-
-- [Make a donation] via GitHub Sponsors
-- [Subscribe to our Substack](https://www.thecoherencecode.com/)
-- [Collect art from Kelly Heaton Studio](https://www.kellyheatonstudio.com/)
-- [Commission] a private customization, tutorial, or artifact
-- [Sponsor or collaborate] with us!
+[Subscribe to our Substack](https://www.thecoherencecode.com/)
 
 ---
 
